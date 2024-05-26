@@ -1,4 +1,4 @@
-Pack `uint4`, `uint6`, `uint7` into bytes.
+Pack fractional bytes (`uint4`, `uint6`, `uint7`) into bytes.
 
 ![fuzzing](https://img.shields.io/badge/fuzzing-active-brightgreen)
 
