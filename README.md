@@ -2,6 +2,8 @@ Pack `uint4`, `uint6`, `uint7` into bytes.
 
 ![fuzzing](https://img.shields.io/badge/fuzzing-active-brightgreen)
 
+
+
 ```bash
 $ go test -bench=. -benchmem .
 goos: darwin
