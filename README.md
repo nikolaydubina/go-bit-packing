@@ -2,6 +2,9 @@ Pack fractional bytes (`uint4`, `uint6`, `uint7`) into bytes.
 
 [![codecov](https://codecov.io/gh/nikolaydubina/go-bit-packing/graph/badge.svg?token=Yfv8qOwNep)](https://codecov.io/gh/nikolaydubina/go-bit-packing)
 ![fuzzing](https://img.shields.io/badge/fuzzing-active-brightgreen)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nikolaydubina/go-bit-packing.svg)](https://pkg.go.dev/github.com/nikolaydubina/go-bit-packing)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nikolaydubina/go-bit-packing)](https://goreportcard.com/report/github.com/nikolaydubina/go-bit-packing)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/nikolaydubina/go-bit-packing/badge)](https://securityscorecards.dev/viewer/?uri=github.com/nikolaydubina/go-bit-packing)
 
 ```bash
 $ go test -bench=. -benchmem .
